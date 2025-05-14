@@ -13,9 +13,10 @@ This repository contains my deliverables for the Heron Product Ops take-home, fo
 - [Post-implementation customer follow-up](./heron_data_launch_follow_up.md) - A comprehensive message with implementation metrics and strategic next steps for Bank of Small Business (BOSB)
 
 ## Supporting Documentation
-- [Analysis Code](./heron_analysis.py) - Python code used to analyze customer data and generate insights
-- [Metrics Documentation](./metrics_notes_analysis.xlsx) - Notes on Heron metrics
+- [Python Analysis](./heron_analysis.py) - Python code used to analyze customer data and generate insights
+- [Heron Metrics Notes](./metrics_notes_analysis.xlsx) - Notes on Heron metrics
 - [Project Notes](./project_notes.md) - Additional context and considerations for the solution
+- [Written Notes](./written_notes.pdf) - Additional written notes 
 
 ## Solution Approach
 My approach to this assignment focused on three key areas:
