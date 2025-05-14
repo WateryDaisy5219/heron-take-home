@@ -2,7 +2,7 @@
 
 **Will Rosler**  
 Email: william_rosler@yahoo.com  
-Phone: (614) 557-7640
+Phone: +1-614-557-7640
 
 Thanks for the opportunity and consideration for a role at Heron!
 
@@ -34,4 +34,4 @@ Given more time, I would expand this solution to include:
 - Updated links to documentation / resources
 
 ## Contact
-Please feel free to reach out with any questions or feedback about my solution!
+Please feel free to reach out at william_rosler@yahoo.com or +1-614-557-7640 with any questions or feedback!
