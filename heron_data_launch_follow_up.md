@@ -30,9 +30,9 @@ Based on how top customers are using Heron, we've identified a set of best pract
 
 Heron has a number of additional tools / settings to help streamline your underwriting process. For example:
 * **Export data to custom excel template** — Configure an export format/schema on your Heron Dashboard that will match your existing underwriting template
-* **Email auto-reply to request missing docs** — set up an automated auto-reply email on your Heron Dashboard that will request missing docs from new applications.
-* **Daily CRM sync report** — Set up alerts on your Heron Dashboard for notifications of CRM syncing jobs.
-* **Industry categorization tool** — set up specific restricted industries on your Heron Dashboard, and her will automatically assess whether end users match intrusties
+* **Email auto-reply to request missing docs** — Set up an automated auto-reply email on your Heron Dashboard that will request missing docs from new applications
+* **Daily CRM sync report** — Set up alerts on your Heron Dashboard for notifications of CRM syncing jobs
+* **Industry categorization tool** — set up specific restricted industries on your Heron Dashboard, and Heron will automatically assess whether end users match industries
 * **End user validation tool** — Validate and confirm end user information and surface any mismatches 
 
 We're happy to help implement any of the above and more! Please contact support@herondata.io to set up time to configure the tools.
@@ -56,7 +56,7 @@ Our recommendation is that you first start with discrete metrics which objective
 * **Positive cash flow (net_operating_cashflow) for 90+ days**: Lower risk
 * **Zero NSF fees (nsf_fees)**: Good financial management
 
-Also we've recently launched the Heron Score, which is correlated on a number of key metrics, including cash flow and various risk metrics that can be a powerful for you to quickly assess applicants. Here's a link to learn more about the Heron Score:
+Also we've recently launched the Heron Score, which is correlated with a number of key metrics including cash flow and various risk metrics that can be a powerful for you to quickly assess applicants. Here's a link to learn more about the Heron Score:
 
 [link_to_support_article_heron_score]
 
